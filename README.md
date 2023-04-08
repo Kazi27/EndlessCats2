@@ -1,12 +1,12 @@
-# AND101 Project 7 - CYOAPI Part 2: RecyclerView Edition
+# AND101 Project 7 - CYOAPI Part 3: Beautified
 
 Submitted by: **Kazi Anwar**
 
-Time spent: **7** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
-**EndlessCats** is an android app that **displays a scrollable list of cat images and gifs of all shapes and sizes from the CAT API! It displays three pieces of data, the id, url and image and makes an API call, uses recycler view along with a toast.**
+**EndlessCats2** is the second iteration of an android app that **displays a scrollable list of cat images and gifs of all shapes and sizes from the CAT API! It displays three pieces of data, the id, url and image and makes an API call, uses recycler view along with a toast. It also looks more cohesive than before!**
 
 If I had to describe this project in three (3) emojis, they would be: **🐱🐈😺**
 
@@ -14,27 +14,33 @@ If I had to describe this project in three (3) emojis, they would be: **🐱🐈
 
 The following REQUIRED features are completed:
 
-- [X] Make an API call to an API of your choice using AsyncHTTPClient
-- [X] Implement a RecyclerView to display a list of entries from the API
-- [X] Display at least three (3) pieces of data for each RecyclerView item
+- [X] App contains a RecyclerView that displays a list of scrollable data
+- [X] App displays at least two (2) pieces of data for each RecyclerView item
+- [X] Use a downloadable font with custom color and size
+- [X] Modify the theme of the app in `themes.xml`
+- [X] Define and apply at least one style in `styles.xml`
 
 The following STRETCH features are implemented:
 
-- [ ] Add a UI element for the user to interact with API further
-- [X] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
+
+The following EXTRA features are implemented:
+
+- [X] Changed font in status bar
+- [X] Changed status bar color
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://user-images.githubusercontent.com/90419249/230249360-ef714f9a-5af9-46a0-8923-97b897cc4ce6.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **imgur**
 
 ## Notes
 
-Recycler views and adapters are super hard!
+Although recycler views and adapters are super hard, UI/UX is fun!
 
 ## License
 
