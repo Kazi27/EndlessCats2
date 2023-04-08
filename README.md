@@ -1,4 +1,4 @@
-# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
+# AND101 Project 7 - CYOAPI Part 2: RecyclerView Edition
 
 Submitted by: **Kazi Anwar**
 
