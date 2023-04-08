@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="url_text">
+        <item name="android:textColor">@color/url_blue</item>
+        <item name="android:background">"@color/black"</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="id_text">
+        <item name="android:textColor">@color/id_red</item>
+        <item name="android:background">"@color/black"</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+</resources>
